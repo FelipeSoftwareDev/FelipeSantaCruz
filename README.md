@@ -1,16 +1,51 @@
-## 👀 Quem Sou 
-Meu nome é Felipe, tenho 26 anos e comecei a me interessar por tecnologia surgiu a partir dos jogos eletrônicos 🎮, logo na infância, mas foi só no ínicio da fase adulta passei a pensar em uma carreira de desenvolvedor, foi quando percebi o quão fascinante é buscar na tecnologia soluções práticas para problemas reais.
+# 👀 Hello There
 
-## 📚 O que me motiva❗🚀🚀
-Vejo no desenvolvimento de software uma oportunidade de mudar o mundo, está cada vez mais claro que 
-a tecnologia, se empregada de forma ética e efetiva, tem o poder de melhorar nossa qualidade de vida,
-longevidade e otimizar nosso tempo. Essa visão positiva do mercado e minha paixão por encontrar
-respostas aos desafios, me tornam uma pessoa inspirada e motivada a seguir este caminho.
+Me chamo Felipe e sou um desenvolvedor em transição para **Engenharia de Dados**.
+Comecei minha jornada pelo **Front-End**, transitei para o **Back-End**, e hoje sigo aprofundando meus estudos em **pipelines de dados**, automação e arquitetura orientada a dados.
 
-## Hard & Soft Skills
+Tenho interesse especial em:
+- 📊 **Orquestração de pipelines (Airflow)**
+- 🧱 **Construção de APIs e microsserviços**
+- 🐍 **Python para engenharia e automação**
+- ☁️ **AWS (S3, IAM, Lambda, CloudWatch, EC2, SQS)**
+- 🗃️ **Conceitos de ETL/ELT**
+- 🧪 **Boas práticas, testes e arquitetura simples**
+- 🐳 **Docker & DevOps básico**
 
-  💻: Minhas experiências profissionais e acadêmicas me ajudaram a construir conhecimento sólido em HTML, CSS, Tailwind, Python 🐍, SQL, JavaScript, NodeJS e React ⚛️
+---
 
-  🙂: Fácil comunicação, gosto do trabalho em equipe, esforçado e motivado para seguir neste caminho!
+## 💻 **Hard Skills**
+- **Linguagens:** Python, JavaScript, SQL.
+- **Back-end:** Node.js (Express), FastAPI, Django.  
+- **Front-end:** React, HTML, CSS, Tailwind. 
+- **Cloud:** AWS.  
+- **Outros:** Git, JWT, Docker, NPM, Pip.  
 
-  :octocat: Além do uso de ferramentas como o próprio github, figma, NPM, Pip, JWT, AWS Cloud. Procuro também estar atualizado com as metodologias ágeis, boas práticas e padrões de arquitetura de software.
+## 🙂 **Soft Skills** 
+- Trabalho em equipe  
+- Organização e foco  
+- Constante aprendizado  
+
+---
+
+## 🌱 Atualmente estudando
+- Engenharia de Dados  
+- Airflow  
+- Arquitetura de dados e pipelines  
+- Kubernetes (noções)  
+- Design de APIs escaláveis  
+
+---
+
+## 📈 Minhas estatísticas no GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSoftwareDev&layout=compact&theme=radical)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
