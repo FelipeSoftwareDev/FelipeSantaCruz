@@ -1,15 +1,19 @@
 <h1 align="center">👋 Hello There</h1>
-<h3 align="center">Desenvolvedor em transição para <strong>Engenharia de Dados</strong></h3>
+<h3 align="center"> Engenheiro de Software com foco em <strong>LLMS</strong></h3>
 
 ## 🚀 Sobre mim
+Me chamo Felipe e sou apaixonado por construir aplicações inteligentes. Minha trajetória começou no Full Stack, mas hoje meu foco está na interseção entre Engenharia de Software e Inteligência Artificial.
 
-Me chamo Felipe e sou um desenvolvedor que iniciou sua jornada pelo **Front-End**, agregou o **Back-End** e hoje está mergulhando no universo de **pipelines, dados e automação**.
-
-Gosto de resolver problemas, estruturar ideias e transformar dados em fontes de conhecimento confiáveis.  
-Atualmente estudando **Engenharia de Dados**, com foco em Airflow, arquitetura e boas práticas.
+Atualmente, dedico meus esforços a desenvolver arquiteturas RAG (Retrieval-Augmented Generation) e integrar LLMs a sistemas de produção, sempre buscando transformar dados brutos em insights acionáveis.
 
 ---
 
+## 🔭 No que estou trabalhando agora
+Aida Alfa: Um SaaS autoral de análise de ativos financeiros. 
+Estou construindo toda a arquitetura em GCP, utilizando Python para processamento de dados e LLMs para gerar análises fundamentalistas sem alucinações.
+
+---
+ 
 ## 💻 Tech Stack
 
 ### 🔹 **Linguagens**
