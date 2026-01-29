@@ -54,10 +54,10 @@ Estou construindo toda a arquitetura em GCP, utilizando Python para processament
 ## 📚 Atualmente estudando
 
 🔸 Engenharia de Dados  
-🔸 Generative AI Patterns: Aprofundando em RAG Estruturado e Agentes Autônomos
-🔸 System Design: Arquitetura de microsserviços escaláveis na Cloud (GCP)
-🔸 Otimização de processamento de dados para aplicações Web
-🔸 Kubernetes  
+🔸 Generative AI Patterns   
+🔸 Arquitetura de Microserviços escaláveis em Cloud   
+🔸 Performance no processamento de dados   
+
 ---
 
 ## 📈 Estatísticas do GitHub
